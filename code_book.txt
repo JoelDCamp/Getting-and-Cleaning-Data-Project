@@ -1,0 +1,251 @@
+Codebook
+Summary of means of selected variables from 2012 Samsung Galaxy S II accelerometer experiment
+
+"1" "Subject"
+	Number between 1 and 30 identifying subject who carried out experiment
+
+"2" "Activity"
+	Label indicating activity carried out by test subject
+		1. Walking
+		2. Walking Upstairs
+		3. Walking Downstairs
+		4. Sitting
+		5. Standing
+		6. Laying
+
+"3" "1 tBodyAcc-mean()-X"
+	Lists the mean of the average measurement of body linear acceleration along the X axis of movement
+
+"4" "2 tBodyAcc-mean()-Y"
+	Lists the mean of the average measurement of body linear acceleration along the Y axis of movement
+
+"5" "3 tBodyAcc-mean()-Z"
+	Lists the mean of the average measurement of body linear acceleration along the Z axis of movement
+
+"6" "41 tGravityAcc-mean()-X"
+	Lists the mean of the average measurement of gravity acceleration along the X axis of movement
+
+"7" "42 tGravityAcc-mean()-Y"
+	Lists the mean of the average measurement of gravity acceleration along the Y axis of movement
+
+"8" "43 tGravityAcc-mean()-Z"
+	Lists the mean of the average measurement of gravity acceleration along the Z axis of movement
+
+"9" "81 tBodyAccJerk-mean()-X"
+	Lists the mean of the average measurement of body linear acceleration along the X axis of movement derived in time to obtain jerk signals
+
+"10" "82 tBodyAccJerk-mean()-Y"
+	Lists the mean of the average measurement of body linear acceleration along the Y axis of movement derived in time to obtain jerk signals
+
+"11" "83 tBodyAccJerk-mean()-Z"
+	Lists the mean of the average measurement of body linear acceleration along the Z axis of movement derived in time to obtain jerk signals
+
+"12" "121 tBodyGyro-mean()-X"
+	Lists the mean of the average measurement of angular velocity along the X axis of movement
+
+"13" "122 tBodyGyro-mean()-Y"
+	Lists the mean of the average measurement of angular velocity along the Y axis of movement
+
+"14" "123 tBodyGyro-mean()-Z"
+	Lists the mean of the average measurement of angular velocity along the Z axis of movement
+
+"15" "161 tBodyGyroJerk-mean()-X"
+	Lists the mean of the average measurement of angular velocity along the X axis of movement derived in time to obtain jerk signals
+
+"16" "162 tBodyGyroJerk-mean()-Y"
+	Lists the mean of the average measurement of angular velocity along the Y axis of movement derived in time to obtain jerk signals
+
+"17" "163 tBodyGyroJerk-mean()-Z"
+	Lists the mean of the average measurement of angular velocity along the Z axis of movement derived in time to obtain jerk signals
+
+"18" "201 tBodyAccMag-mean()"
+	Lists the mean of the average measurement of the magnitude of body linear acceleration
+
+"19" "214 tGravityAccMag-mean()"
+	Lists the mean of the average measurement of the magnitude of gravity acceleration
+
+"20" "227 tBodyAccJerkMag-mean()"
+	Lists the mean of the average measurement of the magnitude of body linear acceleration derived in time to obtain jerk signals
+
+"21" "240 tBodyGyroMag-mean()"
+	Lists the mean of the average measurement of the magnitude of angular velocity
+
+"22" "253 tBodyGyroJerkMag-mean()"
+	Lists the mean of the average measurementof the magnitude of angular velocity derived in time to obtain jerk signals
+
+"23" "266 fBodyAcc-mean()-X"
+	Lists the mean of the average measurement of body linear acceleration along the X axis of movement with an applied Fast Fourier Transformation
+
+"24" "267 fBodyAcc-mean()-Y"
+	Lists the mean of the average measurement of body linear acceleration along the Y axis of movement with an applied Fast Fourier Transformation
+
+"25" "268 fBodyAcc-mean()-Z"
+	Lists the mean of the average measurement of body linear acceleration along the Z axis of movement with an applied Fast Fourier Transformation
+
+"26" "294 fBodyAcc-meanFreq()-X"
+	Lists the mean of the weighted average measurement of the frequency components of body linear acceleration along the X axis of movement with an applied Fast Fourier Transformation
+
+"27" "295 fBodyAcc-meanFreq()-Y"
+	Lists the mean of the weighted average measurement of the frequency components of body linear acceleration along the Y axis of movement with an applied Fast Fourier Transformation
+
+"28" "296 fBodyAcc-meanFreq()-Z"
+	Lists the mean of the weighted average measurement of the frequency components of body linear acceleration along the Z axis of movement with an applied Fast Fourier Transformation
+
+"29" "345 fBodyAccJerk-mean()-X"
+	Lists the mean of the average measurement of body linear acceleration along the X axis of movement derived in time to obtain jerk signals with an applied Fast Fourier Transformation
+
+"30" "346 fBodyAccJerk-mean()-Y"
+	Lists the mean of the average measurement of body linear acceleration along the Y axis of movement derived in time to obtain jerk signals with an applied Fast Fourier Transformation
+
+"31" "347 fBodyAccJerk-mean()-Z"
+	Lists the mean of the average measurement of body linear acceleration along the Z axis of movement derived in time to obtain jerk signals with an applied Fast Fourier Transformation
+
+"32" "373 fBodyAccJerk-meanFreq()-X"
+	Lists the mean of the weighted average measurement  of the frequency components of body linear acceleration along the X axis of movement derived in time to obtain jerk signalswith an applied Fast Fourier Transformation
+
+"33" "374 fBodyAccJerk-meanFreq()-Y"
+	Lists the mean of the weighted average measurement  of the frequency components of body linear acceleration along the Y axis of movement derived in time to obtain jerk signalswith an applied Fast Fourier Transformation
+
+"34" "375 fBodyAccJerk-meanFreq()-Z"
+	Lists the mean of the weighted average measurement  of the frequency components of body linear acceleration along the Z axis of movement derived in time to obtain jerk signalswith an applied Fast Fourier Transformation
+
+"35" "424 fBodyGyro-mean()-X"
+	Lists the mean of the average measurement of angular velocity along the X axis of movement with an applied Fast Fourier Transformation
+
+"36" "425 fBodyGyro-mean()-Y"
+	Lists the mean of the average measurement of angular velocity along the Y axis of movement with an applied Fast Fourier Transformation
+
+"37" "426 fBodyGyro-mean()-Z"
+	Lists the mean of the average measurement of angular velocity along the Z axis of movement with an applied Fast Fourier Transformation
+
+"38" "452 fBodyGyro-meanFreq()-X"
+	Lists the mean of the weighted average measurement of the frequency components of angular velocity along the X axis of movement with an applied Fast Fourier Transformation
+
+"39" "453 fBodyGyro-meanFreq()-Y"
+	Lists the mean of the weighted average measurement of the frequency components of angular velocity along the Y axis of movement with an applied Fast Fourier Transformation
+
+"40" "454 fBodyGyro-meanFreq()-Z"
+	Lists the mean of the weighted average measurement of the frequency components of angular velocity along the Z axis of movement with an applied Fast Fourier Transformation
+
+"41" "503 fBodyAccMag-mean()"
+	Lists the mean of the average measurement of the magnitude of body linear acceleration with an applied Fast Fourier Transformation
+
+"42" "513 fBodyAccMag-meanFreq()"
+	Lists the mean of the weighted average measurement of the frequency components of body linear acceleration with an applied Fast Fourier Transformation
+
+"43" "516 fBodyBodyAccJerkMag-mean()"
+	Lists the mean of the average measurement of body linear acceleration derived in time to obtain jerk signals with an applied Fast Fourier Transformation
+
+"44" "526 fBodyBodyAccJerkMag-meanFreq()"
+	Lists the mean of the weighted average measurement of the frequency components of body linear acceleration derived in time to obtain jerk signals with an applied Fast Fourier Transformation
+
+"45" "529 fBodyBodyGyroMag-mean()"
+	Lists the mean of the average measurement of angular velocity with an applied Fast Fourier Transformation
+
+"46" "539 fBodyBodyGyroMag-meanFreq()"
+	Lists the mean of the weighted average measurement of the frequency components of angular velocity with an applied Fast Fourier Transformation
+
+"47" "542 fBodyBodyGyroJerkMag-mean()"
+	Lists the mean of the average measurement of angular velocity derived in time to obtain jerk signals with an applied Fast Fourier Transformation
+
+"48" "552 fBodyBodyGyroJerkMag-meanFreq()"
+	Lists the mean of the weighted average measurement of the frequency components of angular velocity derived in time to obtain jerk signals with an applied Fast Fourier Transformation
+
+"49" "4 tBodyAcc-std()-X"
+	Lists the mean of the standard deviation of body linear acceleration along the X axis of movement
+
+"50" "5 tBodyAcc-std()-Y"
+	Lists the mean of the standard deviation of body linear acceleration along the Y axis of movement
+
+"51" "6 tBodyAcc-std()-Z"
+	Lists the mean of the standard deviation of body linear acceleration along the Z axis of movement
+
+"52" "44 tGravityAcc-std()-X"
+	Lists the mean of the standard deviation of gravity acceleration along the X axis of movement
+
+"53" "45 tGravityAcc-std()-Y"
+	Lists the mean of the standard deviation of gravity acceleration along the Y axis of movement
+
+"54" "46 tGravityAcc-std()-Z"
+	Lists the mean of the standard deviation of gravity acceleration along the Z axis of movement
+
+"55" "84 tBodyAccJerk-std()-X"
+	Lists the mean of the standard deviationof body linear acceleration along the X axis of movement derived in time to obtain jerk signals
+
+"56" "85 tBodyAccJerk-std()-Y"
+	Lists the mean of the standard deviationof body linear acceleration along the Y axis of movement derived in time to obtain jerk signals
+
+"57" "86 tBodyAccJerk-std()-Z"
+	Lists the mean of the standard deviationof body linear acceleration along the Z axis of movement derived in time to obtain jerk signals
+
+"58" "124 tBodyGyro-std()-X"
+	Lists the mean of the standard deviation of angular velocity along the X axis of movement
+
+"59" "125 tBodyGyro-std()-Y"
+	Lists the mean of the standard deviation of angular velocity along the Y axis of movement
+
+"60" "126 tBodyGyro-std()-Z"
+	Lists the mean of the standard deviation of angular velocity along the Z axis of movement
+
+"61" "164 tBodyGyroJerk-std()-X"
+	Lists the mean of the standard deviation of angular velocity along the X axis of movement derived in time to obtain jerk signals
+
+"62" "165 tBodyGyroJerk-std()-Y"
+	Lists the mean of the standard deviation of angular velocity along the Y axis of movement derived in time to obtain jerk signals
+
+"63" "166 tBodyGyroJerk-std()-Z"
+	Lists the mean of the standard deviation of angular velocity along the Z axis of movement derived in time to obtain jerk signals
+
+"64" "202 tBodyAccMag-std()"
+	Lists the mean of the standard deviation of the magnitude of body linear acceleration
+
+"65" "215 tGravityAccMag-std()"
+	Lists the mean of the standard deviation of the magnitude of gravity acceleration
+
+"66" "228 tBodyAccJerkMag-std()"
+	Lists the mean of the standard deviation of the magnitude of body linear acceleration derived in time to obtain jerk signals
+
+"67" "241 tBodyGyroMag-std()"
+	Lists the mean of the standard deviation of the magnitude of angular velocity
+
+"68" "254 tBodyGyroJerkMag-std()"
+	Lists the mean of the standard deviation of the magnitude of angular velocity derived in time to obtain jerk signals
+
+"69" "269 fBodyAcc-std()-X"
+	Lists the mean of the standard deviation of body linear acceleration along the X axis of movementwith an applied Fast Fourier Transformation
+
+"70" "270 fBodyAcc-std()-Y"
+	Lists the mean of the standard deviation of body linear acceleration along the Y axis of movementwith an applied Fast Fourier Transformation
+
+"71" "271 fBodyAcc-std()-Z"
+	Lists the mean of the standard deviation of body linear acceleration along the Z axis of movementwith an applied Fast Fourier Transformation
+
+"72" "348 fBodyAccJerk-std()-X"
+	Lists the mean of the standard deviation of body linear acceleration along the X axis of movement derived in time to obtain jerk signals with an applied Fast Fourier Transformation
+
+"73" "349 fBodyAccJerk-std()-Y"
+	Lists the mean of the standard deviation of body linear acceleration along the Y axis of movement derived in time to obtain jerk signals with an applied Fast Fourier Transformation
+
+"74" "350 fBodyAccJerk-std()-Z"
+	Lists the mean of the standard deviation of body linear acceleration along the Z axis of movement derived in time to obtain jerk signals with an applied Fast Fourier Transformation
+
+"75" "427 fBodyGyro-std()-X"
+	Lists the mean of the standard deviation of angular velocity along the X axis of movement with an applied Fast Fourier Transformation
+
+"76" "428 fBodyGyro-std()-Y"
+	Lists the mean of the standard deviation of angular velocity along the Y axis of movement with an applied Fast Fourier Transformation
+
+"77" "429 fBodyGyro-std()-Z"
+	Lists the mean of the standard deviation of angular velocity along the Z axis of movement with an applied Fast Fourier Transformation
+
+"78" "504 fBodyAccMag-std()"
+	Lists the mean of the standard deviation of the magnitude of body linear acceleration with an applied Fast Fourier Transformation
+
+"79" "517 fBodyBodyAccJerkMag-std()"
+	Lists the mean of the standard deviation of body linear acceleration derived in time to obtain jerk signals with an applied Fast Fourier Transformation
+
+"80" "530 fBodyBodyGyroMag-std()"
+	Lists the mean of the standard deviation of the magnitude of angular velocity with an applied Fast Fourier Transformation
+
+"81" "543 fBodyBodyGyroJerkMag-std()"
+	Lists the mean of the standard deviation of angular velocity derived in time to obtain jerk signals with an applied Fast Fourier Transformation
